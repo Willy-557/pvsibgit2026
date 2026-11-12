@@ -1,5 +1,5 @@
 export default function Header() {
     return (<>
-        <h1>Portfolio (Main)</h1>
+        <h1>Portfolio Saya (Main)</h1>
     </>)
 }
